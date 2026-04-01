@@ -7,7 +7,6 @@ public class CalculadoraInteligente {
 		Scanner ler = new Scanner(System.in);
 		double num1, num2;
 		String operacao;
-		
 
 		
 		System.out.println("Escreva o primeiro valor: ");
