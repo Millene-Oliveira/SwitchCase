@@ -2,7 +2,7 @@ package switchCase;
 
 import java.util.Scanner;
 
-public class calculadoraInteligente {
+public class CalculadoraInteligente {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 		double num1, num2;
