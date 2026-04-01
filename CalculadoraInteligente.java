@@ -21,17 +21,14 @@ public class CalculadoraInteligente {
 		case "Adição":
 			System.out.println("O resultado é: "+(num1+num2));
 			break;
-			
 		case "Subtração":
 			System.out.println("O resultado é: "+(num1-num2));
-			break;
-				
+			break;		
 		case "Multiplicação":
 			System.out.println("O resultado é: "+(num1*num2));
 			break;
 		case "Divisão":
 			System.out.println("O resultado é: "+(num1/num2));
-		
 		default:
 			System.out.println("Informe uma operação válida");
 		}
